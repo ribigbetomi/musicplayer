@@ -1,4 +1,6 @@
 import "../styles/globals.css";
+import "normalize.css/normalize.css";
+
 import { SessionProvider, sessionProvider } from "next-auth/react";
 import { RecoilRoot } from "recoil";
 
